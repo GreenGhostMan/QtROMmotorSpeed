@@ -286,6 +286,22 @@ Window {
                 id: rowLayout6
                 width: 700
                 height: 600
+
+                Image {
+                    id: image
+                    width: 100
+                    height: 100
+                    source: "images/analogMeter800x800.png"
+                    fillMode: Image.PreserveAspectFit
+
+                    Image {
+                        id: image1
+                        width: parent.width
+                        height: parent.height
+                        source: "images/red_arm.png"
+                        fillMode: Image.PreserveAspectFit
+                    }
+                }
             }
 
             RowLayout {

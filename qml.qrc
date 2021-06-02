@@ -10,5 +10,7 @@
         <file>images/eye-outer.png</file>
         <file>images/eye.png</file>
         <file>DialROM.qml</file>
+        <file>images/red_arm.png</file>
+        <file>images/analogMeter800x800.png</file>
     </qresource>
 </RCC>

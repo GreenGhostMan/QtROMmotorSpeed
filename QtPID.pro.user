@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.13.2, 2021-06-02T13:39:06. -->
+<!-- Written by QtCreator 4.13.2, 2021-06-02T23:14:06. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -290,10 +290,10 @@
       <value type="bool" key="RemoteLinux.GenericDirectUploadStep.IgnoreMissingFiles">false</value>
       <value type="bool" key="RemoteLinux.GenericDirectUploadStep.Incremental">true</value>
       <valuelist type="QVariantList" key="RemoteLinux.LastDeployedLocalTimes">
-       <value type="QDateTime">2021-06-02T13:32:15.324</value>
+       <value type="QDateTime">2021-06-02T23:11:41.958</value>
       </valuelist>
       <valuelist type="QVariantList" key="RemoteLinux.LastDeployedRemoteTimes">
-       <value type="QDateTime">2018-03-10T06:32:13.000</value>
+       <value type="QDateTime">2018-03-10T04:19:56.000</value>
       </valuelist>
      </valuemap>
      <value type="int" key="ProjectExplorer.BuildStepList.StepsCount">3</value>
@@ -369,9 +369,9 @@
     <valuelist type="QVariantList" key="CustomOutputParsers"/>
     <value type="int" key="PE.EnvironmentAspect.Base">1</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">QtPID (on RaspberryPi)</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">RemoteLinuxRunConfiguration:/home/rom/Desktop/QTExamples/QtPID/QtPID.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/rom/Desktop/QTExamples/QtPID/QtPID.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">QtPID (on RaspberryPi)2</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">RemoteLinuxRunConfiguration:/home/rom/Desktop/QTExamples/QtROMmotorSpeed/QtPID.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/rom/Desktop/QTExamples/QtROMmotorSpeed/QtPID.pro</value>
     <value type="int" key="RemoteLinux.EnvironmentAspect.Version">1</value>
     <value type="QString" key="RemoteLinux.RunConfig.AlternateRemoteExecutable"></value>
     <value type="bool" key="RemoteLinux.RunConfig.UseAlternateRemoteExecutable">false</value>
