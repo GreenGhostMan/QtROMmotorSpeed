@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Logo.qml</file>
+        <file>images/ship.png</file>
+        <file>images/romrobotics.png</file>
+        <file>images/phone.png</file>
+        <file>images/osrfm.png</file>
+        <file>images/face.png</file>
+        <file>images/eye-outer.png</file>
+        <file>images/eye.png</file>
+        <file>DialROM.qml</file>
+    </qresource>
+</RCC>
